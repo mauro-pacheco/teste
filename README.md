@@ -1,3 +1,0 @@
-# teste
-Teste GitHub
-teste
